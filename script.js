@@ -1,4 +1,4 @@
-const url = `https://io.adafruit.com/johnnynuss10/feeds/johnnyfeed/data/last`;
+const url = `https://io.adafruit.com/api/v2/johnnynuss10/feeds/johnnyfeed/data/last`;
 
 // Function to fetch and display the latest value
 function loadFeed() {
